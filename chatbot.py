@@ -15,7 +15,7 @@ history = [
 
 while user_message != "sair":
     response = llm.responses.create(
-        model="gpt-5.4-mini",
+        model="gpt-4",
         temperature=0.5,
         input=history
     )

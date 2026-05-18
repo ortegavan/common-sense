@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Meu livro de Angular e demais pdfs
+livro.md
+*.pdf
